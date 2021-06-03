@@ -1,0 +1,7 @@
+gunicorn
+flask
+pyTelegramBotAPI
+flask_sqlalchemy
+pymysql
+psycopg2
+psycopg2-binary
